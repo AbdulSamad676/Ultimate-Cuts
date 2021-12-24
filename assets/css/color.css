@@ -1,0 +1,83 @@
+.nav-icon, strong{
+	color: #1f1f1f;
+}
+.about-us span,
+.featured-sub span{
+	color: #1f1f1f;
+}
+.barber-list-1 h4{
+	color: #1f1f1f;
+}
+.barber-description h2 span{
+	color: #1f1f1f;
+}
+.barber-description span{
+	color: #1f1f1f;
+}
+.register-now, .theme-btn-2{
+	background-color: #1f1f1f !important;
+}
+.bg-light-color{
+	background-color: #ededed;
+}
+.theme-black-color{
+	color: #332b23 !important;
+}
+.text-color,
+.user-content h3:hover,
+.wiget-hover a:hover,
+.barber-hipster h1 a:hover,
+.service-prices a:hover,
+.review-box:hover a,
+.order-info h4:hover a,
+.profile-info > a,
+.review-info-inner i{
+	color: rgb(255, 255, 255) !important;
+}
+.bg-dark-color,
+.barber-fix:before,
+.barber-fig:hover .ryan-description,
+.theme-btn-2,
+.img-hover-2:before
+{	
+	background-image: linear-gradient(to bottom, rgb(255 227 12), rgb(255 227 12))  !important
+}
+.main-img{
+	border-color: yellow !important;
+	
+}
+/* ------ About Us ------- */
+.image-section1{
+	border: 5px solid white;
+	will-change: transform;
+    transform: perspective(300px) rotateX(0deg) rotateY(0deg);
+}
+.image-section2{
+	will-change: transform;
+    transform: perspective(300px) rotateX(0deg) rotateY(0deg);
+	margin-left: 50px;
+	margin-top: -100px;
+	border: 5px solid white;
+}
+
+#about-us-banner{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	opacity: 1;
+	background-image: url(../images/products.jpg);
+
+	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url("../images/products.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#about-us-banner h2 {
+	color: white;
+}
+#about-us-banner h3 {
+	color: white;
+	
+}
+.about span{
+	color: #fc436f;
+}
